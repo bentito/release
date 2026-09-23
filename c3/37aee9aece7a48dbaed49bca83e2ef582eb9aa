@@ -1,0 +1,25 @@
+ci-operator/jobs/openshift-priv/router/openshift-priv-router-main-postsubmits.yaml
+  s_4ad043e150bde0::t_1511d113cda3f4 6
+ci-operator/jobs/openshift-priv/router/openshift-priv-router-main-presubmits.yaml
+  s_4ad043e150bde0::t_af70aa66eeee04 8,123,241,356,474,592,708,825,942,1059,1176,1295,1410,1526,1639,1708,1824,1941,2057,2134,2211
+ci-operator/jobs/openshift/router/openshift-router-main-postsubmits.yaml
+  s_4ad043e150bde0::t_54f872faeb5010 6,71
+ci-operator/jobs/openshift/router/openshift-router-main-presubmits.yaml
+  s_4ad043e150bde0::t_a2ec59a03a4277 8,114,223,329,438,547,654,762,870,978,1086,1196,1302,1409,1513,1574,1682,1744,1851,1959,2066,2134,2202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "c337aee9aece7a48dbaed49bca83e2ef582eb9aa",
+  "prompts": {},
+  "sessions": {
+    "s_4ad043e150bde0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ce86-e4a2-7442-a896-cdff8fc438c0",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
