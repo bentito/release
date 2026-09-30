@@ -1,0 +1,19 @@
+ci-operator/jobs/openshift/cluster-ingress-operator/openshift-cluster-ingress-operator-main-presubmits.yaml
+  s_92d87480e2e487::t_bf5f70d587ca18 24,26-28,60-65,86-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "c9be8f895333c751339b1e6298b712cb2b13fa69",
+  "prompts": {},
+  "sessions": {
+    "s_92d87480e2e487": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f29d-295e-7492-b2c8-b8ed852107c9",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
